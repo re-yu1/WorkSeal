@@ -1,2 +1,0 @@
-# WorkSeal
-Work for yu
